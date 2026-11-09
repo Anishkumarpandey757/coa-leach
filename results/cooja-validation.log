@@ -1,0 +1,34 @@
+[32mINFO  [main] [Cooja.java:1147] - Loading ../../examples/coa-apso-leach/validation.csc random seed: null[0;39m
+> make -j6 root.cooja TARGET=cooja
+  LD        build/cooja/root.cooja
+WARNING: A restricted method in java.lang.foreign.SymbolLookup has been called
+WARNING: java.lang.foreign.SymbolLookup::libraryLookup has been called by org.contikios.cooja.contikimote.CoreComm in an unnamed module (file:/home/anish/coa-demo/contiki-ng/tools/cooja/build/libs/cooja.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+> make -j6 node.cooja TARGET=cooja
+  LD        build/cooja/node.cooja
+[32mINFO  [main] [LogScriptEngine.java:231] - Script timeout in 600000 ms[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] -  5% completed,  3.6 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 10% completed,  2.1 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 15% completed,  1.5 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 20% completed,  1.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 25% completed,  1.1 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 30% completed,  0.9 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 35% completed,  0.8 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 40% completed,  0.7 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 45% completed,  0.6 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 50% completed,  0.5 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 55% completed,  0.5 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 60% completed,  0.4 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 65% completed,  0.3 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 70% completed,  0.3 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 75% completed,  0.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 80% completed,  0.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 85% completed,  0.1 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 90% completed,  0.1 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 95% completed,  0.0 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:294] - Timeout event @ 600000000[0;39m
+[32mINFO  [sim] [Simulation.java:450] - Runtime: 822 ms. Simulated time: 600000 ms. Speedup: 729.92700729927[0;39m
+[32mINFO  [main] [Cooja.java:1173] - TEST OK
+[0;39m

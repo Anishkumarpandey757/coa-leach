@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "node": 8,
+      "tx_ticks": 474696,
+      "rx_ticks": 559599304,
+      "cpu_ticks": 560074000
+    },
+    {
+      "node": 9,
+      "tx_ticks": 405112,
+      "rx_ticks": 560668888,
+      "cpu_ticks": 561074000
+    },
+    {
+      "node": 2,
+      "tx_ticks": 398280,
+      "rx_ticks": 561675720,
+      "cpu_ticks": 562074000
+    },
+    {
+      "node": 3,
+      "tx_ticks": 475344,
+      "rx_ticks": 562598656,
+      "cpu_ticks": 563074000
+    },
+    {
+      "node": 4,
+      "tx_ticks": 395808,
+      "rx_ticks": 563678192,
+      "cpu_ticks": 564074000
+    },
+    {
+      "node": 5,
+      "tx_ticks": 406208,
+      "rx_ticks": 564667792,
+      "cpu_ticks": 565074000
+    },
+    {
+      "node": 6,
+      "tx_ticks": 413040,
+      "rx_ticks": 565660960,
+      "cpu_ticks": 566074000
+    },
+    {
+      "node": 7,
+      "tx_ticks": 436336,
+      "rx_ticks": 566637664,
+      "cpu_ticks": 567074000
+    }
+  ],
+  "assignments_sent": 10,
+  "aggregates": 114,
+  "samples_aggregated": 299,
+  "tx_ticks_sum": 3404824,
+  "rx_ticks_sum": 4505187176,
+  "note": "Cumulative Energest ticks, not energy (J); duration must be matched across runs."
+}

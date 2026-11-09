@@ -1,0 +1,18 @@
+{
+  "nodes": 60,
+  "rounds": 450,
+  "area": 100.0,
+  "seed": 42,
+  "bs_x": 50.0,
+  "bs_y": 125.0,
+  "hetero": true,
+  "clusters": 5,
+  "pso_particles": 9,
+  "pso_iterations": 10,
+  "period": 15,
+  "check_period": 15,
+  "lookahead": 15,
+  "setup_margin": 1.15,
+  "ch_min_fraction": 0.22,
+  "hybrid_routing": true
+}

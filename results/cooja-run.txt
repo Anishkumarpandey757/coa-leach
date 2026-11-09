@@ -1,0 +1,823 @@
+Random seed: 123456
+73000 ID:8 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+73000 ID:8 [INFO: Main      ] - Routing: RPL Lite
+73000 ID:8 [INFO: Main      ] - Net: sicslowpan
+73000 ID:8 [INFO: Main      ] - MAC: CSMA
+73000 ID:8 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+73000 ID:8 [INFO: Main      ] - 802.15.4 Default channel: 26
+73000 ID:8 [INFO: Main      ] Node ID: 8
+73000 ID:8 [INFO: Main      ] Link-layer address: 0008.0008.0008.0008
+73000 ID:8 [INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
+236000 ID:2 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+236000 ID:2 [INFO: Main      ] - Routing: RPL Lite
+236000 ID:2 [INFO: Main      ] - Net: sicslowpan
+236000 ID:2 [INFO: Main      ] - MAC: CSMA
+236000 ID:2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+236000 ID:2 [INFO: Main      ] - 802.15.4 Default channel: 26
+236000 ID:2 [INFO: Main      ] Node ID: 2
+236000 ID:2 [INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+236000 ID:2 [INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+250000 ID:6 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+250000 ID:6 [INFO: Main      ] - Routing: RPL Lite
+250000 ID:6 [INFO: Main      ] - Net: sicslowpan
+250000 ID:6 [INFO: Main      ] - MAC: CSMA
+250000 ID:6 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+250000 ID:6 [INFO: Main      ] - 802.15.4 Default channel: 26
+250000 ID:6 [INFO: Main      ] Node ID: 6
+250000 ID:6 [INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+250000 ID:6 [INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+348000 ID:4 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+348000 ID:4 [INFO: Main      ] - Routing: RPL Lite
+348000 ID:4 [INFO: Main      ] - Net: sicslowpan
+348000 ID:4 [INFO: Main      ] - MAC: CSMA
+348000 ID:4 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+348000 ID:4 [INFO: Main      ] - 802.15.4 Default channel: 26
+348000 ID:4 [INFO: Main      ] Node ID: 4
+348000 ID:4 [INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+348000 ID:4 [INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+382000 ID:1 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+382000 ID:1 [INFO: Main      ] - Routing: RPL Lite
+382000 ID:1 [INFO: Main      ] - Net: sicslowpan
+382000 ID:1 [INFO: Main      ] - MAC: CSMA
+382000 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+382000 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+382000 ID:1 [INFO: Main      ] Node ID: 1
+382000 ID:1 [INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+382000 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+382000 ID:1 [INFO: COA-ROOT  ] ROOT ready, 8 nodes; policy epochs=6
+402000 ID:7 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+402000 ID:7 [INFO: Main      ] - Routing: RPL Lite
+402000 ID:7 [INFO: Main      ] - Net: sicslowpan
+402000 ID:7 [INFO: Main      ] - MAC: CSMA
+402000 ID:7 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+402000 ID:7 [INFO: Main      ] - 802.15.4 Default channel: 26
+402000 ID:7 [INFO: Main      ] Node ID: 7
+402000 ID:7 [INFO: Main      ] Link-layer address: 0007.0007.0007.0007
+402000 ID:7 [INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
+708000 ID:9 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+708000 ID:9 [INFO: Main      ] - Routing: RPL Lite
+708000 ID:9 [INFO: Main      ] - Net: sicslowpan
+708000 ID:9 [INFO: Main      ] - MAC: CSMA
+708000 ID:9 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+708000 ID:9 [INFO: Main      ] - 802.15.4 Default channel: 26
+708000 ID:9 [INFO: Main      ] Node ID: 9
+708000 ID:9 [INFO: Main      ] Link-layer address: 0009.0009.0009.0009
+708000 ID:9 [INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
+715000 ID:5 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+715000 ID:5 [INFO: Main      ] - Routing: RPL Lite
+715000 ID:5 [INFO: Main      ] - Net: sicslowpan
+715000 ID:5 [INFO: Main      ] - MAC: CSMA
+715000 ID:5 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+715000 ID:5 [INFO: Main      ] - 802.15.4 Default channel: 26
+715000 ID:5 [INFO: Main      ] Node ID: 5
+715000 ID:5 [INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+715000 ID:5 [INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+899000 ID:3 [INFO: Main      ] Starting Contiki-NG-7a4df8a-dirty
+899000 ID:3 [INFO: Main      ] - Routing: RPL Lite
+899000 ID:3 [INFO: Main      ] - Net: sicslowpan
+899000 ID:3 [INFO: Main      ] - MAC: CSMA
+899000 ID:3 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+899000 ID:3 [INFO: Main      ] - 802.15.4 Default channel: 26
+899000 ID:3 [INFO: Main      ] Node ID: 3
+899000 ID:3 [INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+899000 ID:3 [INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+5073000 ID:8 [INFO: COA-NODE  ] NO ROUTE id=8
+6708000 ID:9 [INFO: COA-NODE  ] NO ROUTE id=9
+7236000 ID:2 [INFO: COA-NODE  ] NO ROUTE id=2
+8899000 ID:3 [INFO: COA-NODE  ] NO ROUTE id=3
+9348000 ID:4 [INFO: COA-NODE  ] NO ROUTE id=4
+10715000 ID:5 [INFO: COA-NODE  ] NO ROUTE id=5
+11250000 ID:6 [INFO: COA-NODE  ] NO ROUTE id=6
+12402000 ID:7 [INFO: COA-NODE  ] NO ROUTE id=7
+20075000 ID:8 [INFO: COA-NODE  ] MEMBER FALLBACK 8 -> root
+20075000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=31592 rx_ticks=19970408 cpu_ticks=20002000
+20115112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=8 head=8 epoch=0 registeredCH=1
+20132112 ID:1 [INFO: COA-ROOT  ] DIRECT node=8 fallback; samples_total=1
+20144112 ID:8 [INFO: COA-NODE  ] CONFIG id=8 CH=8 epoch=0 role=HEAD CHIP=available
+21710000 ID:9 [INFO: COA-NODE  ] MEMBER FALLBACK 9 -> root
+21710000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=36632 rx_ticks=20965368 cpu_ticks=21002000
+21741112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=9 head=8 epoch=0 registeredCH=1
+21751112 ID:1 [INFO: COA-ROOT  ] DIRECT node=9 fallback; samples_total=2
+21757112 ID:9 [INFO: COA-NODE  ] CONFIG id=9 CH=8 epoch=0 role=MEMBER CHIP=available
+22238000 ID:2 [INFO: COA-NODE  ] MEMBER FALLBACK 2 -> root
+22238000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=31592 rx_ticks=21970408 cpu_ticks=22002000
+22272112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=2 head=3 epoch=0 registeredCH=0
+22290112 ID:1 [INFO: COA-ROOT  ] DIRECT node=2 fallback; samples_total=3
+22301112 ID:2 [INFO: COA-NODE  ] CONFIG id=2 CH=3 epoch=0 role=MEMBER CHIP=pending
+23901000 ID:3 [INFO: COA-NODE  ] MEMBER FALLBACK 3 -> root
+23901000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=36632 rx_ticks=22965368 cpu_ticks=23002000
+23923112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=3 head=3 epoch=0 registeredCH=1
+23928224 ID:3 [INFO: COA-NODE  ] CONFIG id=3 CH=3 epoch=0 role=HEAD CHIP=available
+23935112 ID:1 [INFO: COA-ROOT  ] DIRECT node=3 fallback; samples_total=4
+24350000 ID:4 [INFO: COA-NODE  ] MEMBER FALLBACK 4 -> root
+24350000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=31592 rx_ticks=23970408 cpu_ticks=24002000
+24362112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=4 head=3 epoch=0 registeredCH=1
+24379112 ID:1 [INFO: COA-ROOT  ] DIRECT node=4 fallback; samples_total=5
+24390112 ID:4 [INFO: COA-NODE  ] CONFIG id=4 CH=3 epoch=0 role=MEMBER CHIP=available
+25717000 ID:5 [INFO: COA-NODE  ] MEMBER FALLBACK 5 -> root
+25717000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=36632 rx_ticks=24965368 cpu_ticks=25002000
+25748112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=5 head=8 epoch=0 registeredCH=1
+25753224 ID:1 [INFO: COA-ROOT  ] DIRECT node=5 fallback; samples_total=6
+25761112 ID:5 [INFO: COA-NODE  ] CONFIG id=5 CH=8 epoch=0 role=MEMBER CHIP=available
+26252000 ID:6 [INFO: COA-NODE  ] MEMBER FALLBACK 6 -> root
+26252000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=36632 rx_ticks=25965368 cpu_ticks=26002000
+26284112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=6 head=7 epoch=0 registeredCH=0
+26289112 ID:1 [INFO: COA-ROOT  ] DIRECT node=6 fallback; samples_total=7
+26370112 ID:6 [INFO: COA-NODE  ] CONFIG id=6 CH=7 epoch=0 role=MEMBER CHIP=pending
+27404000 ID:7 [INFO: COA-NODE  ] MEMBER FALLBACK 7 -> root
+27404000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=36632 rx_ticks=26965368 cpu_ticks=27002000
+27446112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=7 head=7 epoch=0 registeredCH=1
+27453112 ID:7 [INFO: COA-NODE  ] CONFIG id=7 CH=7 epoch=0 role=HEAD CHIP=available
+27488112 ID:1 [INFO: COA-ROOT  ] DIRECT node=7 fallback; samples_total=8
+35077000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=1 epoch=0
+35120112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=1 total=9
+36712000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+36769400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+37240000 ID:2 [INFO: COA-NODE  ] MEMBER FALLBACK 2 -> root
+37268112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=2 head=3 epoch=0 registeredCH=1
+37288112 ID:1 [INFO: COA-ROOT  ] DIRECT node=2 fallback; samples_total=10
+37313112 ID:2 [INFO: COA-NODE  ] CONFIG id=2 CH=3 epoch=0 role=MEMBER CHIP=available
+38903000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=1 epoch=0
+38928112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=1 total=11
+39352000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+39417400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+40719000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+40793400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+41254000 ID:6 [INFO: COA-NODE  ] MEMBER FALLBACK 6 -> root
+41274112 ID:1 [INFO: COA-ROOT  ] ASSIGN node=6 head=7 epoch=0 registeredCH=1
+41292112 ID:1 [INFO: COA-ROOT  ] DIRECT node=6 fallback; samples_total=12
+41301112 ID:6 [INFO: COA-NODE  ] CONFIG id=6 CH=7 epoch=0 role=MEMBER CHIP=available
+42406000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=1 epoch=0
+42465112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=1 total=13
+50079000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+50158112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=16
+51714000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+51827400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+52242000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+52318400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+53905000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+53962112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=19
+54354000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+54389400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+55721000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+55747768 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+56256000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+56338400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+57408000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+57471112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=21
+65081000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+65147112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=24
+66716000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+66796400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+67244000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+67312768 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+68907000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+68935112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=27
+69356000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+69424400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+70723000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+70807400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+71258000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+71338400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+72410000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+72456112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=29
+80083000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+80083000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=91712 rx_ticks=79918288 cpu_ticks=80010000
+80140112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=32
+81718000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+81718000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=80704 rx_ticks=80929296 cpu_ticks=81010000
+81803400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+82246000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+82246000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=86744 rx_ticks=81923256 cpu_ticks=82010000
+82284400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+83909000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+83909000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=87608 rx_ticks=82922392 cpu_ticks=83010000
+83957112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=35
+84358000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+84358000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=81800 rx_ticks=83928200 cpu_ticks=84010000
+84397400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+85725000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+85725000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=87000 rx_ticks=84923000 cpu_ticks=85010000
+85811400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+86260000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+86260000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=82640 rx_ticks=85927360 cpu_ticks=86010000
+86327400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+87412000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+87412000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=88424 rx_ticks=86921576 cpu_ticks=87010000
+87425112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=37
+90382000 ID:1 [INFO: COA-ROOT  ] NEW EPOCH=1 regs=40 cfg=10 agg=12 samples=37
+95085000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+95160112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=40
+96720000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+96810400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+97248000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+97328400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+98911000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+98979112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=43
+99360000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+99468400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+100727000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+100795400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+101262000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+101331400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+102414000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+102488112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=45
+110087000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+110151112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=48
+111722000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+111821400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+112250000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+112285400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+113913000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+113960112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=51
+114362000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+114418400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+115729000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+115818400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+116264000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+116339400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+117416000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+117493112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=53
+125089000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+125133112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=56
+126724000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+126792400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+127252000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+127326400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+128915000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+128938112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=59
+129364000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+129439400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+130731000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+130800400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+131266000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+131343400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+132418000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+132451112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=61
+140091000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+140091000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=138744 rx_ticks=139879256 cpu_ticks=140018000
+140121112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=64
+141726000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+141726000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=124096 rx_ticks=140893904 cpu_ticks=141018000
+141795400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+142254000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+142254000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=119896 rx_ticks=141898104 cpu_ticks=142018000
+142328768 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+143917000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+143917000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=139840 rx_ticks=142878160 cpu_ticks=143018000
+143965112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=67
+144366000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+144366000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=127384 rx_ticks=143890616 cpu_ticks=144018000
+144464400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+145733000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+145733000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=130392 rx_ticks=144887608 cpu_ticks=145018000
+145834400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+146268000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+146268000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=129344 rx_ticks=145888656 cpu_ticks=146018000
+146345400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+147420000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+147420000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=136184 rx_ticks=146881816 cpu_ticks=147018000
+147467112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=69
+155093000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+155169112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=72
+156728000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+156843400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+157256000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+157337400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+158919000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+158978112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=75
+159368000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+159451400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+160735000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+160763400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+161270000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+161328400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+162422000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+162482112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=77
+170095000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+170147112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=80
+171730000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+171789400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+172258000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+172351400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+173921000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+173972112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=83
+174370000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+174449400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+175737000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+175804400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+176272000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+176333400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+177424000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+177461112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=85
+180382000 ID:1 [INFO: COA-ROOT  ] NEW EPOCH=2 regs=88 cfg=10 agg=30 samples=85
+185097000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+185165112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=88
+186732000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+186810400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+187260000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+187342400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+188923000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+189000112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=91
+189372000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+189462400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+190739000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+190787400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+191274000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+191362400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+192426000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+192486112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=93
+200099000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+200099000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=185936 rx_ticks=199840064 cpu_ticks=200026000
+200140112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=96
+201734000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+201734000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=164640 rx_ticks=200861360 cpu_ticks=201026000
+201806400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+202262000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+202262000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=163288 rx_ticks=201862712 cpu_ticks=202026000
+202324400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+203925000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+203925000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=187032 rx_ticks=202838968 cpu_ticks=203026000
+203936224 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=99
+204374000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+204374000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=162728 rx_ticks=203863272 cpu_ticks=204026000
+204458400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+205741000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+205741000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=168744 rx_ticks=204857256 cpu_ticks=205026000
+205808400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+206276000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+206276000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=171264 rx_ticks=205854736 cpu_ticks=206026000
+206369400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+207428000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+207428000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=177896 rx_ticks=206848104 cpu_ticks=207026000
+207493112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=101
+215101000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+215151112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=104
+216736000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+216824400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+217264000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+217309400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+218927000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+218966112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=107
+219376000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+219451768 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+220743000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+220820400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+221278000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+221338400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+222430000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+222452112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=109
+230103000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+230140112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=112
+231738000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+231829400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+232266000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+232372400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+233929000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+233957112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=115
+234378000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+234424400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+235745000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+235863400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+236280000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+236358400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+237432000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+237521112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=117
+245105000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+245192112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=120
+246740000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+246801400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+247268000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+247327400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+248931000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+248989112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=123
+249380000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+249452400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+250747000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+250819400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+251282000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+251382400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+252434000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+252452112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=125
+260107000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+260107000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=242184 rx_ticks=259791816 cpu_ticks=260034000
+260185112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=128
+261742000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+261742000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=209128 rx_ticks=260824872 cpu_ticks=261034000
+261807400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+262270000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+262270000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=206680 rx_ticks=261827320 cpu_ticks=262034000
+262331400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+263933000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+263933000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=243648 rx_ticks=262790352 cpu_ticks=263034000
+263975112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=131
+264382000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+264382000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=207216 rx_ticks=263826784 cpu_ticks=264034000
+264449400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+265749000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+265749000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=206936 rx_ticks=264827064 cpu_ticks=265034000
+265817400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+266284000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+266284000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=208568 rx_ticks=265825432 cpu_ticks=266034000
+266327768 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+267436000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+267436000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=225744 rx_ticks=266808256 cpu_ticks=267034000
+267479112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=133
+270382000 ID:1 [INFO: COA-ROOT  ] NEW EPOCH=3 regs=136 cfg=10 agg=48 samples=133
+275109000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+275157112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=136
+276744000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+276800400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+277272000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+277308400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+278935000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+278963112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=139
+279384000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+279457400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+280751000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+280817400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+281286000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+281355400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+282438000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+282522112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=141
+290111000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+290153112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=144
+291746000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+291836400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+292274000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+292327400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+293937000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+293990112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=147
+294386000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+294511400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+295753000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+295822400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+296288000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+296386400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+297440000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+297472112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=149
+305113000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+305184112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=152
+306748000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+306809400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+307276000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+307332400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+308939000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+309018112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=155
+309388000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+309459400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+310755000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+310838400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+311290000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+311374400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+312442000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+312463112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=157
+320115000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+320115000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=289376 rx_ticks=319752624 cpu_ticks=320042000
+320166112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=160
+321750000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+321750000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=248576 rx_ticks=320793424 cpu_ticks=321042000
+321839400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+322278000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+322278000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=245032 rx_ticks=321796968 cpu_ticks=322042000
+322347400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+323941000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+323941000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=286736 rx_ticks=322755264 cpu_ticks=323042000
+323991112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=163
+324390000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+324390000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=246664 rx_ticks=323795336 cpu_ticks=324042000
+324494400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+325757000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+325757000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=246384 rx_ticks=324795616 cpu_ticks=325042000
+325812400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+326292000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+326292000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=252120 rx_ticks=325789880 cpu_ticks=326042000
+326380400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+327444000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+327444000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=268552 rx_ticks=326773448 cpu_ticks=327042000
+327488112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=165
+335117000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+335169112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=168
+336752000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+336825400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+337280000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+337357400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+338943000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+338989112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=171
+339392000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+339494400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+340759000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+340815768 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+341294000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+341361400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+342446000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+342509112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=173
+350119000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+350185112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=176
+351754000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+351809400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+352282000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+352339400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+353945000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+353999112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=179
+354394000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+354465400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+355761000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+355841400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+356296000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+356352400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+357448000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+357513112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=181
+360382000 ID:1 [INFO: COA-ROOT  ] NEW EPOCH=4 regs=184 cfg=10 agg=66 samples=181
+365121000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+365165112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=184
+366756000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+366841400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+367284000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+367340768 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+368947000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+368994112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=187
+369396000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+369475400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+370763000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+370844400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+371298000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+371410400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+372450000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+372515112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=189
+380123000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+380123000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=335472 rx_ticks=379714528 cpu_ticks=380050000
+380181112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=192
+381758000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+381758000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=288024 rx_ticks=380761976 cpu_ticks=381050000
+381841400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+382286000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+382286000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=283384 rx_ticks=381766616 cpu_ticks=382050000
+382347400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+383949000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+383949000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=333928 rx_ticks=382716072 cpu_ticks=383050000
+383995112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=195
+384398000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+384398000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=279816 rx_ticks=383770184 cpu_ticks=384050000
+384464400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+385765000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+385765000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=288024 rx_ticks=384761976 cpu_ticks=385050000
+385822400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+386300000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+386300000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=290472 rx_ticks=385759528 cpu_ticks=386050000
+386377400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+387452000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+387452000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=306160 rx_ticks=386743840 cpu_ticks=387050000
+387536112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=197
+395125000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+395171112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=200
+396760000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+396861400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+397288000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+397369400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+398951000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+398992112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=203
+399400000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+399493400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+400767000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+400860400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+401302000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+401383400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+402454000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+402509112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=205
+410127000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+410168112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=208
+411762000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+411844400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+412290000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+412350400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+413953000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+414035112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=211
+414402000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+414427400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+415769000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+415830400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+416304000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+416394400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+417456000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+417516112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=213
+425129000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+425154112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=216
+426764000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+426878400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+427292000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+427371400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+428955000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+428994112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=219
+429404000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+429484400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+430771000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+430860400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+431306000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+431397400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+432458000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+432514112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=221
+440131000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+440131000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=381568 rx_ticks=439676432 cpu_ticks=440058000
+440188112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=224
+441766000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+441766000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=326216 rx_ticks=440731784 cpu_ticks=441058000
+441834400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+442294000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+442294000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=321736 rx_ticks=441736264 cpu_ticks=442058000
+442331400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+443957000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+443957000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=381120 rx_ticks=442676880 cpu_ticks=443058000
+443981112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=227
+444406000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+444406000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=324304 rx_ticks=443733696 cpu_ticks=444058000
+444501400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+445773000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+445773000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=327312 rx_ticks=444730688 cpu_ticks=445058000
+445847400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+446308000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+446308000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=332112 rx_ticks=445725888 cpu_ticks=446058000
+446426400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+447460000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+447460000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=352912 rx_ticks=446705088 cpu_ticks=447058000
+447492112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=229
+450382000 ID:1 [INFO: COA-ROOT  ] NEW EPOCH=5 regs=232 cfg=10 agg=84 samples=229
+455133000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+455188112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=232
+456768000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+456833400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+457296000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+457352400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+458959000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+459007112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=235
+459408000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+459475400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+460775000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+460830768 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+461310000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+461373400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+462462000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+462520112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=237
+470135000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+470211112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=240
+471770000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+471848400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+472298000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+472334400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+473961000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+474017112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=243
+474410000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+474476400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+475777000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+475857400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+476312000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+476358400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+477464000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+477519112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=245
+485137000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+485155112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=248
+486772000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+486863400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+487300000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+487405400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+488963000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+489034112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=251
+489412000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+489495400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+490779000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+490862400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+491314000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+491383400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+492466000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+492507112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=253
+500139000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+500139000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=428600 rx_ticks=499637400 cpu_ticks=500066000
+500205112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=256
+501774000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+501774000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=365664 rx_ticks=500700336 cpu_ticks=501066000
+501905400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+502302000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+502302000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=359928 rx_ticks=501706072 cpu_ticks=502066000
+502411400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+503965000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+503965000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=428312 rx_ticks=502637688 cpu_ticks=503066000
+503983112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=259
+504414000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+504414000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=362656 rx_ticks=503703344 cpu_ticks=504066000
+504497400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+505781000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+505781000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=366760 rx_ticks=504699240 cpu_ticks=505066000
+505833400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+506316000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+506316000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=377696 rx_ticks=505688304 cpu_ticks=506066000
+506393400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+507468000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+507468000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=394624 rx_ticks=506671376 cpu_ticks=507066000
+507536112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=261
+515141000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+515176112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=264
+516776000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+516849768 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+517304000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+517393400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+518967000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+518979112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=267
+519416000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+519493400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+520783000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+520855400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+521318000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+521414400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+522470000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+522511112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=269
+530143000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+530164112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=272
+531778000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+531842400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+532306000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+532380768 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+533969000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+534025112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=275
+534418000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+534473400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+535785000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+535858400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+536320000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+536404400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+537472000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+537520112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=277
+540382000 ID:1 [INFO: COA-ROOT  ] NEW EPOCH=0 regs=280 cfg=10 agg=102 samples=277
+545145000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+545188112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=280
+546780000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+546862400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+547308000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+547362400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+548971000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+548993112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=283
+549420000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+549516400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+550787000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+550880400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+551322000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+551400400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+552474000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+552507112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=285
+560147000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+560147000 ID:8 [INFO: COA-NODE  ] ENERGEST id=8 tx_ticks=474696 rx_ticks=559599304 cpu_ticks=560074000
+560216112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=288
+561782000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+561782000 ID:9 [INFO: COA-NODE  ] ENERGEST id=9 tx_ticks=405112 rx_ticks=560668888 cpu_ticks=561074000
+561865400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+562310000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+562310000 ID:2 [INFO: COA-NODE  ] ENERGEST id=2 tx_ticks=398280 rx_ticks=561675720 cpu_ticks=562074000
+562369400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+563973000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+563973000 ID:3 [INFO: COA-NODE  ] ENERGEST id=3 tx_ticks=475344 rx_ticks=562598656 cpu_ticks=563074000
+564033112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=291
+564422000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+564422000 ID:4 [INFO: COA-NODE  ] ENERGEST id=4 tx_ticks=395808 rx_ticks=563678192 cpu_ticks=564074000
+564468768 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+565789000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+565789000 ID:5 [INFO: COA-NODE  ] ENERGEST id=5 tx_ticks=406208 rx_ticks=564667792 cpu_ticks=565074000
+565822768 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+566324000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+566324000 ID:6 [INFO: COA-NODE  ] ENERGEST id=6 tx_ticks=413040 rx_ticks=565660960 cpu_ticks=566074000
+566385400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+567476000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+567476000 ID:7 [INFO: COA-NODE  ] ENERGEST id=7 tx_ticks=436336 rx_ticks=566637664 cpu_ticks=567074000
+567548112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=293
+575149000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+575232112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=296
+576784000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+576872400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+577312000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+577376400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+578975000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+578993112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=299
+579424000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+579509400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+580791000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+580874400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+581326000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+581394400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+582478000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+582531112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=301
+590151000 ID:8 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+590188112 ID:1 [INFO: COA-ROOT  ] AGG head=8 epoch=0 samples=3 total=304
+591786000 ID:9 [INFO: COA-NODE  ] MEMBER DATA 9 -> head=8
+591879400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=9 aggregate_pending=1
+592314000 ID:2 [INFO: COA-NODE  ] MEMBER DATA 2 -> head=3
+592397400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=2 aggregate_pending=2
+593977000 ID:3 [INFO: COA-NODE  ] HEAD FLUSH n=3 epoch=0
+594023112 ID:1 [INFO: COA-ROOT  ] AGG head=3 epoch=0 samples=3 total=307
+594426000 ID:4 [INFO: COA-NODE  ] MEMBER DATA 4 -> head=3
+594544400 ID:3 [INFO: COA-NODE  ] CLUSTER RX from=4 aggregate_pending=1
+595793000 ID:5 [INFO: COA-NODE  ] MEMBER DATA 5 -> head=8
+595918400 ID:8 [INFO: COA-NODE  ] CLUSTER RX from=5 aggregate_pending=2
+596328000 ID:6 [INFO: COA-NODE  ] MEMBER DATA 6 -> head=7
+596397400 ID:7 [INFO: COA-NODE  ] CLUSTER RX from=6 aggregate_pending=1
+597480000 ID:7 [INFO: COA-NODE  ] HEAD FLUSH n=2 epoch=0
+597535112 ID:1 [INFO: COA-ROOT  ] AGG head=7 epoch=0 samples=2 total=309
+TEST OK
+Test ended at simulation time: 600000000
